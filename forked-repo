@@ -1,0 +1,21 @@
+{
+  "name": "mcino-Introduction-to-Git-and-GitHub",
+  "full_name": "shivam-vishwakarmaa/mcino-Introduction-to-Git-and-GitHub",
+  "private": false,
+  "owner": {
+    "login": "shivam-vishwakarmaa",
+    "html_url": "https://github.com/shivam-vishwakarmaa"
+  },
+  "html_url": "https://github.com/shivam-vishwakarmaa/mcino-Introduction-to-Git-and-GitHub",
+  "fork": true,
+  "parent": {
+    "name": "mcino-Introduction-to-Git-and-GitHub",
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  },
+  "source": {
+    "name": "mcino-Introduction-to-Git-and-GitHub",
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  }
+}
